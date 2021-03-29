@@ -1,14 +1,16 @@
 <h1 align="center"> TODO App</h1>
 
-<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/e0b48c89-05f3-4136-87f7-20e07e8d999b/deploy-status)](https://app.netlify.com/sites/day-apod/deploys) -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/36690c1f-ae6f-492d-802b-dacb11423c74/deploy-status)](https://app.netlify.com/sites/day-todo/deploys)
 
 A website built with React.js with a list of TODOs, base on a challenge of [DevChallenges.io](DevChallenges.io) website.
 
+Fully unit tested with a 100% code coverage, developed with TDD with enzyme and jest.
+
 <div align="center">
   <h3>
-    <!-- <a href="https://day-apod.netlify.app/">
+    <a href="https://day-todo.netlify.app/">
       :computer: Demo
-    </a> -->
+    </a>
     <span>|</span>
     :traffic_light: Status: Development 
     <span>|</span>
@@ -23,6 +25,11 @@ A website built with React.js with a list of TODOs, base on a challenge of [DevC
 - [SASS](https://sass-lang.com/)
 
 - [BEM](http://getbem.com/)
+
+- [Enzyme (test)](https://enzymejs.github.io/enzyme/)
+
+- [Jest (test)](https://jestjs.io/)
+
 
 <h2> Getting Started</h2>
 
